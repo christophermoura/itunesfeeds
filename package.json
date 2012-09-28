@@ -1,0 +1,23 @@
+{
+  "name": "itunesfeeds",
+  "version": "0.0.1",
+  "description": "Node.js module for fetching iTunes RSS feeds",
+  "main": "index.js",
+  "dependencies": {
+    "request": "2.11.x"
+  },
+  "scripts": {
+    "test": "vow test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/digitalpioneers/itunesfeeds.git"
+  },
+  "keywords": [
+    "iTunes",
+    "RSS",
+    "feed"
+  ],
+  "author": "Ole Michaelis <Ole.Michaelis@googlemail.com>",
+  "license": "BSD"
+}
