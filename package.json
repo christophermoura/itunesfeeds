@@ -1,6 +1,6 @@
 {
   "name": "itunesfeeds",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.js module for fetching iTunes RSS feeds",
   "main": "index.js",
   "dependencies": {
